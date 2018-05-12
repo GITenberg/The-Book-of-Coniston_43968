@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4819
     wikipedia: http://en.wikipedia.org/wiki/W._G._Collingwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43968#The-Book-of-Coniston
 gutenberg_issued: '2013-10-17'
 gutenberg_type: Text
 identifiers:
